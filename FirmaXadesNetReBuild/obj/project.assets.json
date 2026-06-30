@@ -198,23 +198,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\RichardEduardoViquez\\.nuget\\packages\\": {},
+    "C:\\Users\\LEGION\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.4",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetReBuild\\FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj",
+      "projectUniqueName": "C:\\Users\\LEGION\\Documents\\Proyectos\\Harwes\\BP-EPAccounting\\lib\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj",
       "projectName": "FirmaXadesNetReBuild",
-      "projectPath": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetReBuild\\FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj",
-      "packagesPath": "C:\\Users\\RichardEduardoViquez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetReBuild\\FirmaXadesNetReBuild\\obj\\",
+      "projectPath": "C:\\Users\\LEGION\\Documents\\Proyectos\\Harwes\\BP-EPAccounting\\lib\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj",
+      "packagesPath": "C:\\Users\\LEGION\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LEGION\\Documents\\Proyectos\\Harwes\\BP-EPAccounting\\lib\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\RichardEduardoViquez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LEGION\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -223,6 +223,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -241,7 +242,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -272,7 +273,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

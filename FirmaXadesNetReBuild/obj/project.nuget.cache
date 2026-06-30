@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "h/e/urXAALE=",
+  "dgSpecHash": "x1XXr3Oi9yQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\RichardEduardoViquez\\source\\repos\\FirmaXadesNetReBuild\\FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj",
+  "projectFilePath": "C:\\Users\\LEGION\\Documents\\Proyectos\\Harwes\\BP-EPAccounting\\lib\\FirmaXadesNetRebuild\\FirmaXadesNetReBuild\\FirmaXadesNetReBuild.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\RichardEduardoViquez\\.nuget\\packages\\bouncycastle.netcore\\1.8.8\\bouncycastle.netcore.1.8.8.nupkg.sha512",
-    "C:\\Users\\RichardEduardoViquez\\.nuget\\packages\\system.formats.asn1\\7.0.0\\system.formats.asn1.7.0.0.nupkg.sha512",
-    "C:\\Users\\RichardEduardoViquez\\.nuget\\packages\\system.security.cryptography.pkcs\\7.0.0\\system.security.cryptography.pkcs.7.0.0.nupkg.sha512",
-    "C:\\Users\\RichardEduardoViquez\\.nuget\\packages\\system.security.cryptography.xml\\7.0.0\\system.security.cryptography.xml.7.0.0.nupkg.sha512"
+    "C:\\Users\\LEGION\\.nuget\\packages\\bouncycastle.netcore\\1.8.8\\bouncycastle.netcore.1.8.8.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\system.formats.asn1\\7.0.0\\system.formats.asn1.7.0.0.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\system.security.cryptography.pkcs\\7.0.0\\system.security.cryptography.pkcs.7.0.0.nupkg.sha512",
+    "C:\\Users\\LEGION\\.nuget\\packages\\system.security.cryptography.xml\\7.0.0\\system.security.cryptography.xml.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }

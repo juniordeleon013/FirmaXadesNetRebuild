@@ -11,7 +11,7 @@
     <description>FirmaXadesNetRebuild - Versión adaptada para .NET 5/6/7/8
 Este repositorio contiene una versión modificada de la librería original FirmaXadesNet, desarrollada por el Dpto. de Nuevas Tecnologías de la Concejalía de Urbanismo del Ayuntamiento de Cartagena, la cual está basada en una modificación del XAdES starter kit desarrollado por Microsoft Francia.</description>
     <releaseNotes>-Compatibilidad con .NET8</releaseNotes>
-    <repository type="git" url="https://github.com/rviquezsoft/FirmaXadesNetRebuild" commit="c473e33db5096eb8e16b0dd3f57fa932fb89a852" />
+    <repository type="git" url="https://github.com/rviquezsoft/FirmaXadesNetRebuild" commit="fdf7ab6ab55e4c06c263c0e7c791fdad4fae4a7f" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="BouncyCastle.NetCore" version="1.8.8" exclude="Build,Analyzers" />
@@ -20,8 +20,8 @@ Este repositorio contiene una versión modificada de la librería original Firma
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\bin\Debug\net8.0\FirmaXadesNetReBuild.dll" target="lib\net8.0\FirmaXadesNetReBuild.dll" />
-    <file src="C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\FirmaXadesNetReBuild\License\LICENSE" target="\License\LICENSE" />
-    <file src="C:\Users\RichardEduardoViquez\source\repos\FirmaXadesNetReBuild\README.md" target="\README.md" />
+    <file src="C:\Users\LEGION\Documents\Proyectos\Harwes\BP-EPAccounting\lib\FirmaXadesNetRebuild\FirmaXadesNetReBuild\bin\Debug\net8.0\FirmaXadesNetReBuild.dll" target="lib\net8.0\FirmaXadesNetReBuild.dll" />
+    <file src="C:\Users\LEGION\Documents\Proyectos\Harwes\BP-EPAccounting\lib\FirmaXadesNetRebuild\FirmaXadesNetReBuild\License\LICENSE" target="\License\LICENSE" />
+    <file src="C:\Users\LEGION\Documents\Proyectos\Harwes\BP-EPAccounting\lib\FirmaXadesNetRebuild\README.md" target="\README.md" />
   </files>
 </package>
